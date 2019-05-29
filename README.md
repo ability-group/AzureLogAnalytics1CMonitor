@@ -23,13 +23,9 @@
     <img src="http://azuredeploy.net/deploybutton.png"/>
 </a>
 
-
-
 2. Заполните необходимые параметры
 
 <img src="https://raw.githubusercontent.com/ability-group/AzureLogAnalytics1CMonitor/master/images/deploy1.png"/>
-
-
 
 3. После завершения установки сохраните атрибуты для настройки модуля обработки 1С
 
@@ -39,7 +35,7 @@
 
 4. Скачайте и откройте в Конфигураторе 1С модуль 
 
-Детальная информация по работе с модулями внешней обработки: http://v8.1c.ru/overview/Term_000000601.htm 
+> Детальная информация по работе с модулями внешней обработки: http://v8.1c.ru/overview/Term_000000601.htm 
 
 
 
