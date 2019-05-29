@@ -33,12 +33,13 @@
 
 
 
-4. Скачайте и откройте в Конфигураторе 1С модуль <a href="https://github.com/ability-group/AzureLogAnalytics1CMonitor/blob/master/1C/AzureMonitor.epf?raw=true" target="_blank">1C/AzureMonitor.epf</a>
+4. Скачайте и откройте в Конфигураторе 1С модуль AzureMonitor.epf.
 
 <img src="https://raw.githubusercontent.com/ability-group/AzureLogAnalytics1CMonitor/master/images/deploy4.png"/>
 
 Детальная информация по работе с модулями внешней обработки: http://v8.1c.ru/overview/Term_000000601.htm 
 
+Для получения исходного модуля необходимо <a href="https://abilitygroup.ru/contacts/" target="_blank">обратиться к разработчикам</a>.
 
 
 5. Укажите параметры соединения с развернутым шаблоном
