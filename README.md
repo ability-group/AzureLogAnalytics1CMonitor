@@ -17,9 +17,11 @@
 
 Для развертывания решения необходимо выполнить следующие шаги:
 
-Нажмите кнопку «Deploy to Azure» для вызова процедуры развертывания шаблона с использованием 
+1. Нажмите кнопку «Deploy to Azure» для вызова процедуры развертывания шаблона
 
-1. Нажмите кнопку «Deploy to Azure» для вызова процедуры развертывания шаблона с использованием
+<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fability-group%2FAzureLogAnalytics1CMonitor%2Fmaster%2Fazuredeploy.json" target="_blank">
+    <img src="http://azuredeploy.net/deploybutton.png"/>
+</a>
 
 2. Заполните необходимые параметры
 
@@ -30,8 +32,9 @@
 
 
 4. Скачайте и откройте в Конфигураторе 1С модуль 
+
 Детальная информация по работе с модулями внешней обработки: http://v8.1c.ru/overview/Term_000000601.htm 
-(скриншот от Антона)
+
 
 
 5. Укажите параметры соединения с развернутым шаблоном
