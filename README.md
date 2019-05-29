@@ -33,7 +33,7 @@
 
 
 
-4. Скачайте и откройте в Конфигураторе 1С модуль 
+4. Скачайте и откройте в Конфигураторе 1С модуль <a href="https://github.com/ability-group/AzureLogAnalytics1CMonitor/blob/master/1C/AzureMonitor.epf?raw=true" target="_blank">1C/AzureMonitor.epf</a>
 
 Детальная информация по работе с модулями внешней обработки: http://v8.1c.ru/overview/Term_000000601.htm 
 
