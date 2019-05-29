@@ -35,12 +35,15 @@
 
 4. Скачайте и откройте в Конфигураторе 1С модуль <a href="https://github.com/ability-group/AzureLogAnalytics1CMonitor/blob/master/1C/AzureMonitor.epf?raw=true" target="_blank">1C/AzureMonitor.epf</a>
 
+<img src="https://raw.githubusercontent.com/ability-group/AzureLogAnalytics1CMonitor/master/images/deploy4.png"/>
+
 Детальная информация по работе с модулями внешней обработки: http://v8.1c.ru/overview/Term_000000601.htm 
 
 
 
 5. Укажите параметры соединения с развернутым шаблоном
 
+<img src="https://raw.githubusercontent.com/ability-group/AzureLogAnalytics1CMonitor/master/images/deploy3.png"/>
 
 
 6. Задайте расписание выполнения внешней обработки
